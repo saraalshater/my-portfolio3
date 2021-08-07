@@ -1,4 +1,4 @@
-my deployed website https://sara-myportfolio.netlify.app/profile-page
+my deployed website https://sara-myportfolio.netlify.app/
 
 
 
